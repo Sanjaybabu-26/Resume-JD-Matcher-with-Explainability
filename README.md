@@ -15,13 +15,6 @@ AI-powered Resume-JD matching engine using semantic similarity with sentence-tra
 
 ---
 
-## 📁 Folder Structure
-
-resume-matching-engine/ │ ├── data/ │ └── resumes/ # Input resumes as JSON (extracted from PDFs) ├── JD/ # Job Description text files ├── selected/ # Folder to store matched resumes ├── rejected/ # Folder to store non-matching resumes │ ├── matcher/ │ ├── init.py │ ├── simple_matcher.py # Core matching logic │ └── utils.py # Helper functions (e.g., synonym, preprocessing) │ ├── explainability/ │ ├── init.py │ ├── explain_shap.py # SHAP-based explainability │ └── explain_lime.py # LIME-based explainability │ ├── app/ │ ├── streamlit_app.py # Streamlit dashboard for matching & explanations │ └── ui_utils.py # Streamlit UI components │ ├── outputs/ │ └── matches.csv # CSV storing ranked match results with remarks │ ├── requirements.txt └── README.md
-
-
----
-
 ## 🧠 Features
 
 - ✅ **Semantic Matching** with Sentence Transformers
