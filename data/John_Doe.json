@@ -1,0 +1,38 @@
+{
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 123-4567",
+    "entities": [],
+    "skills": [
+        "HTML5",
+        "JSON",
+        "CSS3",
+        "React",
+        "Vue.js"
+    ],
+    "experience_by_domain": {
+        "Front-End Development": [
+            " Proficient in modern web technologies\nincluding HTML5, CSS3, JavaScript, React, and Vue",
+            "\nTECHNICAL SKILLS\n\u2022 Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript, JSON\n\u2022 Frameworks/Libraries: React",
+            "js, Bootstrap, jQuery, Sass\n\u2022 Version Control: Git, GitHub, GitLab\n\u2022 Tools: Visual Studio Code, Figma, Webpack, npm, Babel\n\u2022 Web Technologies: RESTful APIs, AJAX, JSON, Responsive Web Design (RWD)\n\u2022 Design: Adobe XD, Photoshop, Figma, Sketch, UI/UX Design\n\u2022 Testing: Jest, Mocha, Cypress, React Testing Library\n\u2022 Cross-Browser Compatibility: Chrome, Firefox, Safari, Edge\nPROFESSIONAL EXPERIENCE\nFront-End Developer\nXYZ Tech Solutions | Remote\nJune 2022 \u2013 Present\n\u2022 Developed and maintained responsive websites and web applications using HTML5, CSS3,\nJavaScript, and React",
+            " | San Francisco, CA\nAugust 2020 \u2013 May 2022\n\u2022 Designed and developed front-end solutions using HTML, CSS, JavaScript, and Vue",
+            "\n\u2022 Built reusable components and implemented SCSS for consistent styling across the\napplication",
+            "\n\u2022 Implemented front-end elements for e-commerce websites using HTML, CSS, and\nJavaScript",
+            "\nEDUCATION\nBachelor of Science in Computer Science\nUniversity of California, Berkeley | Berkeley, CA\nGraduated: May 2020\n\u2022 Relevant Coursework: Web Development, Data Structures, Algorithms, Object-Oriented\nProgramming, User Interface Design\nCERTIFICATIONS\n\u2022 Certified Front-End Web Developer \u2013 freeCodeCamp (2021)\n\u2022 JavaScript Algorithms and Data Structures \u2013 freeCodeCamp (2020)PROJECTS\nPortfolio Website\nA personal portfolio showcasing various front-end projects built with HTML, CSS, and JavaScript",
+            "\nE-commerce Website\nDeveloped an e-commerce site with React, Redux, and Firebase for user authentication and real-\ntime data storage"
+        ],
+        "UI/UX Design": [
+            "js, Bootstrap, jQuery, Sass\n\u2022 Version Control: Git, GitHub, GitLab\n\u2022 Tools: Visual Studio Code, Figma, Webpack, npm, Babel\n\u2022 Web Technologies: RESTful APIs, AJAX, JSON, Responsive Web Design (RWD)\n\u2022 Design: Adobe XD, Photoshop, Figma, Sketch, UI/UX Design\n\u2022 Testing: Jest, Mocha, Cypress, React Testing Library\n\u2022 Cross-Browser Compatibility: Chrome, Firefox, Safari, Edge\nPROFESSIONAL EXPERIENCE\nFront-End Developer\nXYZ Tech Solutions | Remote\nJune 2022 \u2013 Present\n\u2022 Developed and maintained responsive websites and web applications using HTML5, CSS3,\nJavaScript, and React"
+        ],
+        "Agile Development": [
+            "\n\u2022 Worked in an Agile environment with regular sprint planning and retrospectives"
+        ],
+        "API Integration": [
+            "js, Bootstrap, jQuery, Sass\n\u2022 Version Control: Git, GitHub, GitLab\n\u2022 Tools: Visual Studio Code, Figma, Webpack, npm, Babel\n\u2022 Web Technologies: RESTful APIs, AJAX, JSON, Responsive Web Design (RWD)\n\u2022 Design: Adobe XD, Photoshop, Figma, Sketch, UI/UX Design\n\u2022 Testing: Jest, Mocha, Cypress, React Testing Library\n\u2022 Cross-Browser Compatibility: Chrome, Firefox, Safari, Edge\nPROFESSIONAL EXPERIENCE\nFront-End Developer\nXYZ Tech Solutions | Remote\nJune 2022 \u2013 Present\n\u2022 Developed and maintained responsive websites and web applications using HTML5, CSS3,\nJavaScript, and React",
+            "\n\u2022 Integrated third-party APIs to enhance website functionality and user experience"
+        ],
+        "Testing and Debugging": [
+            "js, Bootstrap, jQuery, Sass\n\u2022 Version Control: Git, GitHub, GitLab\n\u2022 Tools: Visual Studio Code, Figma, Webpack, npm, Babel\n\u2022 Web Technologies: RESTful APIs, AJAX, JSON, Responsive Web Design (RWD)\n\u2022 Design: Adobe XD, Photoshop, Figma, Sketch, UI/UX Design\n\u2022 Testing: Jest, Mocha, Cypress, React Testing Library\n\u2022 Cross-Browser Compatibility: Chrome, Firefox, Safari, Edge\nPROFESSIONAL EXPERIENCE\nFront-End Developer\nXYZ Tech Solutions | Remote\nJune 2022 \u2013 Present\n\u2022 Developed and maintained responsive websites and web applications using HTML5, CSS3,\nJavaScript, and React"
+        ]
+    }
+}

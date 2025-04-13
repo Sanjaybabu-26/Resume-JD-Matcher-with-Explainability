@@ -1,0 +1,43 @@
+Job Title: Front-End Developer (React/Vue)
+- Location: Remote or San Francisco, CA
+- Employment Type: Full-time
+- Experience: 2+ years
+
+About the Role
+We are seeking a skilled Front-End Developer with a passion for building modern, responsive, and visually engaging web applications. The ideal candidate should have strong experience with React.js and Vue.js, and a solid understanding of HTML5, CSS3, JavaScript, and related front-end technologies.
+
+Key Responsibilities
+
+- Develop, maintain, and optimize responsive web applications using React.js, Vue.js, and JavaScript
+- Build and style reusable UI components using SCSS, CSS3, and design frameworks
+- Collaborate with designers to transform UI/UX wireframes into interactive interfaces
+- Integrate third-party APIs and RESTful services
+- Work in an Agile environment, participating in sprint planning and retrospectives
+- Conduct unit testing using frameworks like Jest, Mocha, or React Testing Library
+- Ensure cross-browser compatibility and mobile responsiveness
+
+Required Skills
+
+- Strong proficiency in HTML5, CSS3, JavaScript (ES6+), and JSON
+- Hands-on experience with React, Vue.js, Bootstrap, and jQuery
+- Familiarity with RESTful APIs, AJAX, and modern tooling (Webpack, npm, Babel)
+- UI/UX design experience using tools like Figma, Adobe XD, or Sketch
+- Version control using Git, GitHub, or GitLab
+- Understanding of responsive web design and accessibility standards
+
+Nice-to-Have
+
+- Experience with TypeScript and Redux
+- Background in Agile development methodologies
+- Knowledge of performance optimization and debugging techniques
+
+Qualifications
+
+- Bachelor's degree in Computer Science or related field
+- Relevant certifications in Front-End Development or JavaScript frameworks (e.g., freeCodeCamp, Udemy, etc.)
+
+Why Join Us?
+
+- Work with cutting-edge technologies and a talented team
+- Fully remote flexibility and competitive compensation
+- Opportunity to work on impactful, user-facing products
